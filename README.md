@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barylowi and I'm senior software engineer working with mostly C++, gtest/gmock, Python, docker
+- 👋 Hi, I’m @Miłosz and I'm senior software engineer working with C++, gtest/gmock, Python, docker
 - 👀 I’m interested in learning new programming languages and technologies
 - 🌱 I’m currently learning Rust and Web Developmnet
 - 📫 How to reach me: mail: milosz.barylowicz@gmail.com
